@@ -1,3 +1,5 @@
+# Leia antes de começar a editar esses arquivos
+
 # SI-EstacionamentoSS
 # Nome: E-Stacionar+
 # Projeto de informatização da gestão de entrada, saída e permanência de veículos em estacionamento.
