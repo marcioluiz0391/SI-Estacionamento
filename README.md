@@ -1,4 +1,4 @@
-# Leia antes de começar a editar esses arquivoss
+# Leia antes de começar a editar esses arquivos
 
 # SI-EstacionamentoSS
 # Nome: E-Stacionar+
